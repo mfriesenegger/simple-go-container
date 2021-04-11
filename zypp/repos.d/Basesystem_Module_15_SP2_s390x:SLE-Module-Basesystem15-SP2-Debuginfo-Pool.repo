@@ -1,0 +1,6 @@
+[Basesystem_Module_15_SP2_s390x:SLE-Module-Basesystem15-SP2-Debuginfo-Pool]
+name=SLE-Module-Basesystem15-SP2-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Basesystem/15-SP2/s390x/product_debug?iEGQUhB5XERVXXZVo2WlOMbTAzYOGovsgx-y06-vm03bW5NvP-Xdd_EsVgLYLrpfO2WFpGmZ5vYlBWIlH-riR7_IxxmZ1wcgrxUKFpvbHmguyAzTIIM3RA7Ul4h_mElqmldfSbMhZupOllwb0CYzDVxHYLTR3pkXGkXZruw
+service=Basesystem_Module_15_SP2_s390x

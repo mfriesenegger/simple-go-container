@@ -1,0 +1,22 @@
+[Containers_Module_15_SP2_s390x]
+enabled=1
+autorefresh=1
+url = https://scc.suse.com/access/services/1947?credentials=Containers_Module_15_SP2_s390x
+type = ris
+ttl_sec = 86400
+lrf_dat = 1617915158
+repo_1=Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Debuginfo-Pool
+repo_1_enabled=0
+repo_1_autorefresh=0
+repo_2=Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Debuginfo-Updates
+repo_2_enabled=0
+repo_2_autorefresh=1
+repo_3=Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Pool
+repo_3_enabled=1
+repo_3_autorefresh=0
+repo_4=Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Source-Pool
+repo_4_enabled=0
+repo_4_autorefresh=0
+repo_5=Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Updates
+repo_5_enabled=1
+repo_5_autorefresh=1

@@ -1,0 +1,7 @@
+[Server_Applications_Module_15_SP2_s390x:SLE-Module-Server-Applications15-SP2-Pool]
+name=SLE-Module-Server-Applications15-SP2-Pool
+enabled=1
+autorefresh=0
+baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Server-Applications/15-SP2/s390x/product?dWIfCgKYXyS12MJ-hEcoxWxA6jiwxQPuc0vcEJIQySE5Mm3CpngLi49zQGlW195GgGa3laQxAObNEq6wYUcVq86sn5cJZIAz8v6kaTTJ9y3ExcnJwah4NwIafvsraHHTQfsXZZDBNgmvh0LbjavyKHpW9MuYgI7jim6AEJ_ECAo
+type=rpm-md
+service=Server_Applications_Module_15_SP2_s390x

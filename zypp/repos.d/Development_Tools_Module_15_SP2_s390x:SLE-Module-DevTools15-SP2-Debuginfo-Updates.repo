@@ -1,0 +1,6 @@
+[Development_Tools_Module_15_SP2_s390x:SLE-Module-DevTools15-SP2-Debuginfo-Updates]
+name=SLE-Module-DevTools15-SP2-Debuginfo-Updates
+enabled=0
+autorefresh=1
+baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Development-Tools/15-SP2/s390x/update_debug?mA1bA6N4CzL8QRDG7NVy-lUXufy8JI_HEhYKzG7WrgKRoiJO7jNpdc8pu8N9SNmVcMStKcmFPf6B6s7Wxc-pmE61Oo2I4w2poIN2nBZYkKRkJaEkhDwm0LZQ5-K9UWDJ9YA9xo6M3F01_bV94L3moP8Xexi3YJHJbdMpA7bJGFoSbg
+service=Development_Tools_Module_15_SP2_s390x

@@ -1,0 +1,6 @@
+[Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Debuginfo-Pool]
+name=SLE-Module-Containers15-SP2-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Containers/15-SP2/s390x/product_debug?MPOBz8IDy-g3Zj9HxvJ_887ISrCv4waCrjlzbE-rqvgLgIr0XPQWAVljNpPJCM9tsp5WZqWYAOxwDk1aR0sNnSHAc6dpahqRR5qTtWqBVVqv-UPAneim2SL2RMU8StS0eyNno-XWr38kt9tLWvpyIYFw1wjhXsoz5riO7Pg
+service=Containers_Module_15_SP2_s390x

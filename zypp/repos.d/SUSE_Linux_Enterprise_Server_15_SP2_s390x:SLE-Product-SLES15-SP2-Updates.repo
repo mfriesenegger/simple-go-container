@@ -1,0 +1,6 @@
+[SUSE_Linux_Enterprise_Server_15_SP2_s390x:SLE-Product-SLES15-SP2-Updates]
+name=SLE-Product-SLES15-SP2-Updates
+enabled=1
+autorefresh=1
+baseurl=https://updates.suse.com/SUSE/Updates/SLE-Product-SLES/15-SP2/s390x/update?IAp2AAAAAAAAAAAA_eqND3_iKBcUyPY-VPYVCK1zFpJS66-YBYjTHEF5RHH26-l6bxm6NVLZJgMJecH29jz6XRksdDr3O6MYHYQnF0zNzgVjjcgKX40mbis-fUy0j6-RvQvVO9Tre3HaJAfLvr3_dg
+service=SUSE_Linux_Enterprise_Server_15_SP2_s390x

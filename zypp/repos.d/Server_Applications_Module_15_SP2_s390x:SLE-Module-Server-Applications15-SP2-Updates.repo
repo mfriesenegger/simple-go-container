@@ -1,0 +1,7 @@
+[Server_Applications_Module_15_SP2_s390x:SLE-Module-Server-Applications15-SP2-Updates]
+name=SLE-Module-Server-Applications15-SP2-Updates
+enabled=1
+autorefresh=1
+baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Server-Applications/15-SP2/s390x/update?VirkSMTaMtxSY--8ITriJregXQTNrKqgdESNeg5_ZlWIrKapobzjLrklOT83Oo4HmCx_mm7Zqr4EVhznUzzhKg_7xCLZxJTDOHI1WQ9f8K67NKMHtQVYGK-17L-KwyDtBpZ9a0ALQ5K0ufLn2rcSrecVOkd5GCvGFXnT-lE4
+type=rpm-md
+service=Server_Applications_Module_15_SP2_s390x
