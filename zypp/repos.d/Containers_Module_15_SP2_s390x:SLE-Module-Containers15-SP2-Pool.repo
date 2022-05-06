@@ -1,7 +1,0 @@
-[Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Pool]
-name=SLE-Module-Containers15-SP2-Pool
-enabled=1
-autorefresh=0
-baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Containers/15-SP2/s390x/product?EokJ-5R2ZhqTnsr-vsVX4UEjODKjEzJLrqE6CubkL8PlE-XBieqii9r5D7XxVPPyb9QjAdYx37zAaTjznprxJPqrDa3T2r55PJIUjrxgDjzC4Tefz7gFsxmRcQ3RciwOqCnc985i6j-6L9V4Y-KrS3ovsdO114Q
-type=rpm-md
-service=Containers_Module_15_SP2_s390x

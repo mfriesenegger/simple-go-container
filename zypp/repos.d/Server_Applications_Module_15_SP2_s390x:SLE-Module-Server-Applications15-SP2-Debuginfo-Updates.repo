@@ -1,6 +1,0 @@
-[Server_Applications_Module_15_SP2_s390x:SLE-Module-Server-Applications15-SP2-Debuginfo-Updates]
-name=SLE-Module-Server-Applications15-SP2-Debuginfo-Updates
-enabled=0
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Server-Applications/15-SP2/s390x/update_debug?hXkP7YrHGkp2OE1V0VwT1QznuYzT8aSWLHYgjvaJgXwsgGWWaMspB8H8HJt9lszBID7gD81P7BkslilkvRGusyj0Qi3IxNtlztizHpjc4uf9Hzh9OI42-Ywjn80huPsN7sV74CYBNd6f-UPAzgphpRzsbNb2B3kvpW9j1zZh_9BRQdGY
-service=Server_Applications_Module_15_SP2_s390x

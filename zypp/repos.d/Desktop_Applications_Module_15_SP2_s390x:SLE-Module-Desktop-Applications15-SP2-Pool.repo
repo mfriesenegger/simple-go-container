@@ -1,7 +1,0 @@
-[Desktop_Applications_Module_15_SP2_s390x:SLE-Module-Desktop-Applications15-SP2-Pool]
-name=SLE-Module-Desktop-Applications15-SP2-Pool
-enabled=1
-autorefresh=0
-baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Desktop-Applications/15-SP2/s390x/product?300eEKtGD7u8sEhlsMiGb9BckrL6DVuKkb6GpBhu9QAzhZ1PhErAN2BAS7IBBGZhdXqB2KT6ywGwnMJz4EwPpdeNejbK7RdOgqqjgEdEn-pB7mVSJ6Y0LNYNXke6sA-72QZWyR2cyF_kqihXXugtrSvhflwWaT0wzEynBbc80cKf
-type=rpm-md
-service=Desktop_Applications_Module_15_SP2_s390x

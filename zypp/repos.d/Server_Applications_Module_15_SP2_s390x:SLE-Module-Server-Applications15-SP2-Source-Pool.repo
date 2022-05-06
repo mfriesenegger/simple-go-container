@@ -1,6 +1,0 @@
-[Server_Applications_Module_15_SP2_s390x:SLE-Module-Server-Applications15-SP2-Source-Pool]
-name=SLE-Module-Server-Applications15-SP2-Source-Pool
-enabled=0
-autorefresh=0
-baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Server-Applications/15-SP2/s390x/product_source?cHJ5GKuUEupRAUbr8QVVCXNbyn5pn_jxF_qzFwBh37Yn14RrMBMSeSyHU-kdJOYuDRGYalsNWU-PyBaNJ7_rMceu0H1blEcnsHYutQhnOn3-yPiWwvHTB4o8zDsgCdTD0xgECkWPGySPkdyc7nnyWtKo_BZB8TVEfBq7XcaW3_aYv_sm4bI4
-service=Server_Applications_Module_15_SP2_s390x
