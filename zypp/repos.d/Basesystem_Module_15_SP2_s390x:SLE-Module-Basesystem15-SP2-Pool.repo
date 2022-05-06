@@ -1,7 +1,0 @@
-[Basesystem_Module_15_SP2_s390x:SLE-Module-Basesystem15-SP2-Pool]
-name=SLE-Module-Basesystem15-SP2-Pool
-enabled=1
-autorefresh=0
-baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Basesystem/15-SP2/s390x/product?IypguV9AS8krSDAUID9mdfGMeQn0qj-wsplXxYsxNDlg26axGkVk2c9Hf6fjvpSF90UTGJSRhzVFqL68F0Dco1ecAtKeYAnnu74M0QvgMAOx7e8-WJcjdhbNocaA8Bkh0VnV9SeV-DVgyR8Pf2fNH-R79WMAEVg
-type=rpm-md
-service=Basesystem_Module_15_SP2_s390x

@@ -1,6 +1,0 @@
-[Desktop_Applications_Module_15_SP2_s390x:SLE-Module-Desktop-Applications15-SP2-Debuginfo-Updates]
-name=SLE-Module-Desktop-Applications15-SP2-Debuginfo-Updates
-enabled=0
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Desktop-Applications/15-SP2/s390x/update_debug?UFHL8pgvFFNEs2VcF0QxmnpzinVtrY2x2BtsCDKVg0IrxypUIABtzHQ1d3H0WtYnvxKmrytUeSysMiFec5x8al3ppUmosrjAxQXbCV55dluRgGZwyKTr-jWNWyK2rsDzlojGMBJMGIi-wboiTI66YA7KrPcuBtyZkDxK-dEw8T3Aq3RP9Q
-service=Desktop_Applications_Module_15_SP2_s390x

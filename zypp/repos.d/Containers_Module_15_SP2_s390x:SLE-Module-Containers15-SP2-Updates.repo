@@ -1,7 +1,0 @@
-[Containers_Module_15_SP2_s390x:SLE-Module-Containers15-SP2-Updates]
-name=SLE-Module-Containers15-SP2-Updates
-enabled=1
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Containers/15-SP2/s390x/update?3fEZ0_M77w9BnKWkfw1vqi2sUbn6T6nl28MZtV52TV747DcTN2vU0FalmlK_X1Shttyc0TtDfOnKaeo8UZVkCN_DbE21Zy9Yj2JSr-AM5JuYL0U8YZhINK24t16anDb7GzpP0EPh1aABgmJneKsWlBY9Xak9
-type=rpm-md
-service=Containers_Module_15_SP2_s390x

@@ -1,7 +1,0 @@
-[Basesystem_Module_15_SP2_s390x:SLE-Module-Basesystem15-SP2-Updates]
-name=SLE-Module-Basesystem15-SP2-Updates
-enabled=1
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Basesystem/15-SP2/s390x/update?tq_vs6rB7bLaFXO9ODq_kpUF_b0iNmHUhNttReVUk8G9iOoPpKwIS2DwZDUGd3IZXuZMV7Yq_8MZ17zbMGjy6b0R4b5X2jNHQ-6b7pwfxnV_jYpLItJCOdJArqpV1VKr3qtpKcMRlLsYG9S_24Mh0mfS4yx-
-type=rpm-md
-service=Basesystem_Module_15_SP2_s390x

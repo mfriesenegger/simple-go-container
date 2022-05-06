@@ -1,6 +1,0 @@
-[Basesystem_Module_15_SP2_s390x:SLE-Module-Basesystem15-SP2-Debuginfo-Updates]
-name=SLE-Module-Basesystem15-SP2-Debuginfo-Updates
-enabled=0
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Basesystem/15-SP2/s390x/update_debug?isbNsK9T4F4ebnVUeB66sYB0B4smGAFrCkB3kVfjmu1OMBi-R2Nz9ek6Dm4AX-pOlbVHQH-PiGNnt_apm0Vz-hLDEuqUox1Or2nkoeA-otxTvzoHHr_iySAL-X-iYXDLpNSYlDfEINuxmUbc0J96Gp97Lnhz6a8vQKkN
-service=Basesystem_Module_15_SP2_s390x

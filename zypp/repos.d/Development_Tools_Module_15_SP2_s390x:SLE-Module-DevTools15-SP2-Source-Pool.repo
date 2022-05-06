@@ -1,6 +1,0 @@
-[Development_Tools_Module_15_SP2_s390x:SLE-Module-DevTools15-SP2-Source-Pool]
-name=SLE-Module-DevTools15-SP2-Source-Pool
-enabled=0
-autorefresh=0
-baseurl=https://updates.suse.com/SUSE/Products/SLE-Module-Development-Tools/15-SP2/s390x/product_source?eEw09xfTKEZo7JEtaZZ9uF5exST6hXsfkjB1Iq-sXbSnBK013lIEMUq3nBChbyActFSHvvxH_6ZG2vyjWGmDvcak9Hg-uDdVDNxLbwTIyNQqX6mgvbuGKLXbmRtuI-52abe2paeDrL5KzpIz0WtZzw-KFYbJGYFyO_vN9hbpPjEef9v5lg
-service=Development_Tools_Module_15_SP2_s390x

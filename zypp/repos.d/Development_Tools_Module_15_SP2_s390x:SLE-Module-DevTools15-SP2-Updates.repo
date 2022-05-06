@@ -1,7 +1,0 @@
-[Development_Tools_Module_15_SP2_s390x:SLE-Module-DevTools15-SP2-Updates]
-name=SLE-Module-DevTools15-SP2-Updates
-enabled=1
-autorefresh=1
-baseurl=https://updates.suse.com/SUSE/Updates/SLE-Module-Development-Tools/15-SP2/s390x/update?WRMsKVsyUloKJ6kCQLnCD7Yw2tUO7H8JxzF8YWAFXVnYSn2Tohtp2EMXWxrU8Vby8BU98CoZkX2ZRADaVp8QaQez02heOokJrIJJwY3fLi2hEx2jNBBhH6VGO75w9T4ncXIofVp6MgWGPr5Nfoo9S6PioZ0AR6CFsssKtA
-type=rpm-md
-service=Development_Tools_Module_15_SP2_s390x
