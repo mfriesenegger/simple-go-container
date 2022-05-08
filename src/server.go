@@ -1,12 +1,14 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"log"
 	"net/http"
 	"os"
 	"os/exec"
 	"net"
+	"regexp"
 )
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
@@ -31,11 +33,22 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
         }
 	fmt.Fprintf(w, "Hello from %s at %s!\n", hostname, addrs)
 
-	out1, error := exec.Command("grep", "PRETTY_NAME", "/etc/os-release").Output()
-        if error != nil {
-                fmt.Printf("Oops: %v", error)
-        }
-	fmt.Fprintf(w, "%s", out1)
+	fileToRead, error := os.Open("/etc/os-release")
+	if error != nil {
+		log.Fatal(error)
+	}
+	defer fileToRead.Close()
+	scanner := bufio.NewScanner(fileToRead)
+	for scanner.Scan() {
+		matched, _ := regexp.MatchString("^PRETTY_NAME", scanner.Text())
+		if matched {
+			fmt.Println(scanner.Text())
+		}
+	}
+	if err := scanner.Err(); err != nil {
+		log.Fatal(err)
+	}
+
 
 	out2, error := exec.Command("uname", "-a").Output()
         if error != nil {
