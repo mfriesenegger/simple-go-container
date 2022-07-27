@@ -27,7 +27,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Printf("Oops: %v", error)
 	}
 
-	addrs, error := net.LookupHost(hostname) 
+	addrs, error := net.LookupHost(hostname)
         if error != nil {
                 fmt.Printf("Oops: %v", error)
         }
@@ -42,7 +42,7 @@ func helloHandler(w http.ResponseWriter, r *http.Request) {
 	for scanner.Scan() {
 		matched, _ := regexp.MatchString("^PRETTY_NAME", scanner.Text())
 		if matched {
-			fmt.Println(scanner.Text())
+			fmt.Fprintf(w, "%s\n", scanner.Text())
 		}
 	}
 	if err := scanner.Err(); err != nil {
